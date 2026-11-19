@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1787032028 source:e:\oop lab\banking_system\main.cpp
+	<iostream>
+	<fstream>
+	"account.h"
+	"transaction.h"
+
+1787032028 e:\oop lab\banking_system\transaction.h
+	<string>
+
+1787032028 source:e:\oop lab\banking_system\transaction.cpp
+	"transaction.h"
+
+1787032028 source:e:\oop lab\banking_system\account.cpp
+	"account.h"
+
+1787032028 e:\oop lab\banking_system\account.h
+	<iostream>
+	<string>
+	"transaction.h"
+

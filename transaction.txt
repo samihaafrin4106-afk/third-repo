@@ -1,0 +1,6 @@
+-----------------------------
+Transaction ID: 101
+Sender: 10001
+Receiver: 10002
+Amount: 500
+Status: Successful
